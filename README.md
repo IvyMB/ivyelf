@@ -16,4 +16,4 @@ Software architecture and among other things.
 
 
 🔨 In my spare time I help my friends with their hardware issues 🔨
-   Fixing computers is something I do as a hobby.
+   - Fixing computers is something I do as a hobby.
